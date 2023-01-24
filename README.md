@@ -1,7 +1,7 @@
 Hi 👋 My name is Jacob Perez
 ============================
 
-Beginner and Learning Developer
+Beginner and Learning C#/Python Developer
 -------------------------------
 
 * 🌍  I'm based in Washington State
